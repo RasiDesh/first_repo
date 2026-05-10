@@ -1,2 +1,2 @@
-# test_repo
+# first_repo
 My first repository
