@@ -1,0 +1,8 @@
+CREATE DATABASE information;
+CREATE TABLE details (
+  Id INT PRIMARY KEY AUTO_INCREMENT,
+  Name VARCHAR(100) NOT NULL,
+  DOB DATE,
+  Mobile_number VARCHAR(15),
+  Place_of_birth VARCHAR(100)
+);
